@@ -3,6 +3,6 @@
 
 target "GrowingTextViewExample" do
 
-pod 'Aniways', :git => 'http://github.com/Aniways/aniways-pod.git'
+pod 'Aniways'
 end
 
