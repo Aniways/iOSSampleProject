@@ -14,4 +14,5 @@ Aniways iOS Sample Project
 
         open GrowingTextViewExample.xcworkspace
         
-<iframe src="//player.vimeo.com/video/86816540" width="240" height="473" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Please follow the instructions of our [Getting Started Guide](http://www.aniways.com/docs).
